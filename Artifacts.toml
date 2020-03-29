@@ -1,0 +1,6 @@
+[datasets]
+git-tree-sha1 = "07ffead79133975dec362e533df9f6f42d24ed23"
+
+    [[datasets.download]]
+    sha256 = "f95996d16e7760a63432abfd6d30945bbf89935fadb7038c69d8f2c220a092af"
+    url = "https://github.com/vincentarelbundock/Rdatasets/tarball/master/vincentarelbundock-Rdatasets-e523e67.tar.gz"
